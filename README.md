@@ -60,10 +60,6 @@ Link to dataset: https://www.kaggle.com/datasets/nguyenphd/goodreads-best-books-
 6. Hurray! That's it.
    
 
-<!-- # Directory tree
-![](Images/directory.png) -->
 
-# Tool used
-![](Images/colab.png)  ![](Images/spyder.jpg)
 
   
